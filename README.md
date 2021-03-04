@@ -1,6 +1,9 @@
 ### Hi there, I'm Shi-Lin 👋
 
-Hi, I'm Shi-Lin Chen, a gradute student studying in the University of Southern California!
+## Hi, I'm Shi-Lin Chen, a gradute student studying in the University of Southern California!
+- 🌱 I’m currently learning Python and MySQL and also enhancing my skills in C++ and JavaScript.
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linchen1010&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
