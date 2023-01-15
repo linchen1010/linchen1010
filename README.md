@@ -7,7 +7,7 @@ Checkout my latest project! -> [myBar](https://github.com/linchen1010/myBar)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linchen1010&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linchen1010&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=linchen1010&theme=dracula&layout=compact](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app))](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=linchen1010&color=blue)
 <!--
