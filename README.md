@@ -5,7 +5,9 @@
 Checkout my latest project! -> [myBar](https://github.com/linchen1010/myBar)
 
 
-![linchen1010's GitHub stats](https://github-readme-stats.vercel.app/api?username=linchen1010&show_icons=true&theme=radical)
+![linchen1010's GitHub stats](https://github-readme-stats.vercel.app/api?username=linchen1010&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linchen1010&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=linchen1010&color=blue)
 <!--
